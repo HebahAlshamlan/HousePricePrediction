@@ -1,4 +1,4 @@
-# HousePricePrediction
+# House Price Prediction
 Predict house price using Weka 
 
 #### Abstract— An effective estimation of a house price between sales is needed. A house sale or real estate agent can be aided in making more educated choices depending on the house prices. This paper attempts to demonstrate how house pricing can be estimated by the data mining techniques. We also conclude, on the basis of the studies performed in this paper, that SVM model is the better for this problem.
